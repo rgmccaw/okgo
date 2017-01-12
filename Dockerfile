@@ -1,6 +1,6 @@
 FROM scratch
 MAINTAINER Ryan McCaw "rgmccaw@gmail.com"
-EXPOSE 8080
+EXPOSE 50001
 
 WORKDIR /
 
